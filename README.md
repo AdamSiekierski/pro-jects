@@ -1,3 +1,5 @@
+> :warning: **Deprecation warning**: This repository has been moved into ```pro-jectsapp``` [organization](https://github.com/pro-jectsapp/pro-jects)
+
 # (pro)jects
 
 > A better UI for GitHub Projects 💻
